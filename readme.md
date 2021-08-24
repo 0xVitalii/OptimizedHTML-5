@@ -9,13 +9,8 @@
 
 <p>Clone into the current folder and remove all unnecessary (one command):</p>
 
-<pre>git clone https://github.com/agragregra/oh5 .; rm -rf trunk .gitignore readme.md .git dist</pre>
+<pre>git clone https://github.com/0xVitalii/OptimizedHTML-5.git .; rm -rf trunk .gitignore readme.md .git ; npm i</pre>
 
-<ol>
-	<li>Clone or <a href="https://github.com/agragregra/OptimizedHTML-5/archive/master.zip">Download</a> <strong>OptimizedHTML 5</strong> from GitHub</li>
-	<li>Install Node Modules: <strong>npm i</strong></li>
-	<li>Run: <strong>gulp</strong></li>
-</ol>
 
 <h2>Main Gulpfile.js options:</h2>
 
