@@ -9,9 +9,9 @@
 
 <p>Clone into the current folder and remove all unnecessary (one command):</p>
 
-<pre>git clone https://github.com/6aunter/oh5.git .; rm -rf trunk .gitignore readme.md .git ; npm i</pre>
+<pre>git clone https://github.com/6aunter/oh5.git .; rm -rf trunk .gitignore readme.md .git; npm i</pre>
 OR
-<pre>git@github.com:6aunter/oh5.git .; rm -rf trunk .gitignore readme.md .git ; npm i</pre>
+<pre>git@github.com:6aunter/oh5.git .; rm -rf trunk .gitignore readme.md .git; npm i</pre>
 
 
 <h2>Main Gulpfile.js options:</h2>
