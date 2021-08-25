@@ -1,6 +1,8 @@
 <h1>OptimizedHTML 5 by agragregra</h1>
 <p>Lightweight production-ready Gulp starter.</p>
 
+<script> console.log(444) </script>
+
 
 
 <p><strong>OptimizedHTML 5</strong> - lightweight startup environment with <strong>Gulp 4</strong>, <strong>Preprocessors (Sass, Scss, Less, Stylus)</strong>, <strong>cssnano</strong>, <strong>Browsersync</strong>, <strong>PostCSS</strong>, <strong>Autoprefixer</strong>, <strong>webpack-stream</strong>, <strong>Babel</strong>, <strong>Rsync</strong>, <strong>CSS Reboot</strong> (Bootstrap reboot), Server-side <strong>HTML imports</strong> (SSI), <strong>build</strong>, <strong>gulp-imagemin</strong>. It uses best practices of images compression, JavaScript, CSS optimizing and contains a <strong>.htaccess</strong> code for resources caching (images, fonts, HTML, CSS, JS and other content types).</p>
@@ -9,7 +11,7 @@
 
 <p>Clone into the current folder and remove all unnecessary (one command):</p>
 
-<pre>git clone https://github.com/0xVitalii/OptimizedHTML-5.git .; rm -rf trunk .gitignore readme.md .git ; npm i</pre>
+<pre>git clone https://github.com/6aunter/oh5.git .; rm -rf trunk .gitignore readme.md .git ; npm i</pre>
 
 
 <h2>Main Gulpfile.js options:</h2>
